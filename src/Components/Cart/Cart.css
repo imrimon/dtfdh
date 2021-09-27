@@ -1,0 +1,13 @@
+.name{
+    background-color: aquamarine;
+}
+.cart{
+    background-color: rgba(149, 192, 106, 0.74);
+    padding: 10px;
+    top: 0;
+    position: sticky;
+    height:300px;
+    color: azure;
+    border: 1px solid white;
+    border-radius: 10px;
+}
